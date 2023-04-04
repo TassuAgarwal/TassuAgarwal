@@ -1,4 +1,4 @@
-<img aling="center" alt="coding" width="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img aling="center" alt="coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <h1 align="center">Hi 👋, I'm Tassu Agarwal</h1>
 <h3 align="center">Full Stack Developer</h3>
 
