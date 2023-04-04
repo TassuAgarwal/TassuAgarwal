@@ -1,7 +1,10 @@
-<img align="center" alt="coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="center" alt="coding" width="100%" src="https://i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif" />
 <h1 align="center">Hi 👋, I'm Tassu Agarwal</h1>
 <h3 align="center">Web Developer</h3>
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tassuagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="tassuagarwal" /> </p>
+
 
 - 🔭 I’m currently working on **Web Projects**
 
