@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="https://i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif" />
+<img align="center" alt="coding" width="100%" src="https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg" />
 <h1 align="center">Hi 👋, I'm Tassu Agarwal</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
